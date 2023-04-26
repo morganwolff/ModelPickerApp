@@ -15,4 +15,4 @@
 </p>
 
 # ModelPickerApp
-Discovery of Augmented Reality (AR) with ARKit and the [FocusEntity](https://github.com/maxxfrazer/FocusEntity) dependency package.
+Discovery of Augmented Reality (AR) with ARKit and the [FocusEntity v2.3.0](https://github.com/maxxfrazer/FocusEntity) dependency package.
