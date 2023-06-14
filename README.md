@@ -16,14 +16,10 @@
 
 
 # ModelPickerApp
-<<<<<<< HEAD
-Discovery of Augmented Reality (AR) with ARKit and the [FocusEntity v2.3.0](https://github.com/maxxfrazer/FocusEntity) dependency package.
-=======
-Discovery of Augmented Reality (AR) with ARKit and the [FocusEntity](https://github.com/maxxfrazer/FocusEntity) dependency package.
-
+Discovery of Augmented Reality (AR) with ARKit and the [FocusEntity v2.3.0](https://github.com/maxxfrazer/FocusEntity) dependency package. <br/>
+This augmented reality application allows you to choose a model from among the different models offered by Apple and to integrate them while choosing the position of these models.
 <p align="center">
-    <img src="ModelPickerApp/Assets.xcassets/README/Image.imageset/IMG_9815.jpg">
-    <img src="ModelPickerApp/Assets.xcassets/README/Image1.imageset/IMG_9816.jpg">
-    <img src="ModelPickerApp/Assets.xcassets/README/Image2.imageset/IMG_9817.jpg">
+    <img src="ModelPickerApp/Assets.xcassets/README/Image.imageset/IMG_9815.jpg" width=250px>
+    <img src="ModelPickerApp/Assets.xcassets/README/Image1.imageset/IMG_9816.jpg" width=250px>
+    <img src="ModelPickerApp/Assets.xcassets/README/Image2.imageset/IMG_9817.jpg" width=250px>
 </p>
->>>>>>> 1b1f4a9 (Update Readme file)
